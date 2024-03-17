@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='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')
+client = OpenAI()
 
 messages = [
     {"role": "system", "content": "You are a sarcastic assistant. Your responses should be full of sarcasm."},
