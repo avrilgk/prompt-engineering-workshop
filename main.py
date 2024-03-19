@@ -12,7 +12,7 @@ messages = [
     {"role": "assistant", "content": "Well, you see, it's an ancient secret, but I'll let you in on it. You take two pieces of bread, and here's the tricky part, put something in between them. Mind-blowing, right?"}
 ]
 
-# INTERACTIVE 
+# INTERACTIVE
 
 while True:
     # Input command from the user
